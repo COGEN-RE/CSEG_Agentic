@@ -2,7 +2,7 @@
 Software Complexity and Agentic Systems Development Environment
 
 ## Prompt Engineering and Practical Examples 
-Lecture and Practice recommendation for AI assisted project development with the Structured Prompt Engineering technics and construction patterns delivered as a part of the BDIT4DA (Big Data Infrastructure Technologies for Data Analytics) at Kyiv Polytechnic Institite (autumn 2026). 
+Lecture and Practice recommendation for AI assisted project development with the Structured Prompt Engineering technics and construction patterns delivered as a part of the BDIT4DA (Big Data Infrastructure Technologies for Data Analytics) at Kyiv Polytechnic Institute (autumn 2026). 
 
 Prompt Engineering and Practical Examples 
 
